@@ -25,7 +25,7 @@ Enhance your written communication everywhere you type![https://addons.mozilla.o
 ## SingleFile
 Save a complete page into a single HTML file [https://addons.mozilla.org/bg/firefox/addon/single-file/?src=search](https://addons.mozilla.org/bg/firefox/addon/single-file/?src=search)
 
-
-[]()
+## SSL Server Test
+Checks the current tab's URL against Qualys SSL Labs' SSL Server Test.[https://addons.mozilla.org/bg/firefox/addon/qualys-ssl-server-test/?src=search](https://addons.mozilla.org/bg/firefox/addon/qualys-ssl-server-test/?src=search)
 
 []()
