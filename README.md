@@ -21,6 +21,11 @@ Shows location of IP/host down to city level [https://addons.mozilla.org/bg/fire
 
 ## Grammarly for Firefox
 Enhance your written communication everywhere you type![https://addons.mozilla.org/bg/firefox/addon/grammarly-1/?src=search](https://addons.mozilla.org/bg/firefox/addon/grammarly-1/?src=search)
+
+## SingleFile
+Save a complete page into a single HTML file [https://addons.mozilla.org/bg/firefox/addon/single-file/?src=search](https://addons.mozilla.org/bg/firefox/addon/single-file/?src=search)
+
+
 []()
-[]()
+
 []()
