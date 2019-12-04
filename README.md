@@ -11,7 +11,7 @@ Clear browser cache with a single click or via the F9 key. F9 Fever! ;)
 Shows country flag based on the server location for any website [https://addons.mozilla.org/bg/firefox/addon/flag-plus/?src=search](https://addons.mozilla.org/bg/firefox/addon/flag-plus/?src=search)
 
 ## Easy Screenshot (area)
-You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.[https://addons.mozilla.org/bg/firefox/addon/easyscreenshot/?src=search](https://addons.mozilla.org/bg/firefox/addon/easyscreenshot/?src=search)
+You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file. [https://addons.mozilla.org/bg/firefox/addon/easyscreenshot/?src=search](https://addons.mozilla.org/bg/firefox/addon/easyscreenshot/?src=search)
 
 ## Easy Screenshot (whole page)
 You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file.[https://addons.mozilla.org/bg/firefox/addon/page-screenshot-tool/](https://addons.mozilla.org/bg/firefox/addon/page-screenshot-tool/)
