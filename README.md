@@ -28,4 +28,5 @@ Save a complete page into a single HTML file [https://addons.mozilla.org/bg/fire
 ## SSL Server Test
 Checks the current tab's URL against Qualys SSL Labs' SSL Server Test.[https://addons.mozilla.org/bg/firefox/addon/qualys-ssl-server-test/?src=search](https://addons.mozilla.org/bg/firefox/addon/qualys-ssl-server-test/?src=search)
 
-[]()
+## WordPress Theme and Plugins Detector
+Detects the theme and plugins used in WordPress and display information about them.[https://addons.mozilla.org/bg/firefox/addon/wp-theme-and-plugins-detector/?src=search](https://addons.mozilla.org/bg/firefox/addon/wp-theme-and-plugins-detector/?src=search)
