@@ -19,8 +19,8 @@ You can capture a screen shot by selecting an area or capture the whole/visible 
 ## Flagfox
 Shows location of IP/host down to city level [https://addons.mozilla.org/bg/firefox/addon/flagfox/?src=search](https://addons.mozilla.org/bg/firefox/addon/flagfox/?src=search)
 
-
-[]()
+## Grammarly for Firefox
+Enhance your written communication everywhere you type![https://addons.mozilla.org/bg/firefox/addon/grammarly-1/?src=search](https://addons.mozilla.org/bg/firefox/addon/grammarly-1/?src=search)
 []()
 []()
 []()
