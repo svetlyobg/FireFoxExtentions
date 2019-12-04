@@ -6,3 +6,16 @@ BuiltWith is a web site profiler tool. Upon looking up a page, BuiltWith returns
 ## Clear Cache
 Clear browser cache with a single click or via the F9 key. F9 Fever! ;)
 [https://addons.mozilla.org/en-US/firefox/addon/clearcache/?src=search](https://addons.mozilla.org/en-US/firefox/addon/clearcache/?src=search)
+
+## Country Flag +
+Shows country flag based on the server location for any website [https://addons.mozilla.org/bg/firefox/addon/flag-plus/?src=search](https://addons.mozilla.org/bg/firefox/addon/flag-plus/?src=search)
+
+
+
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
