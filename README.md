@@ -79,4 +79,6 @@ Dark mode for every website. Take care of your eyes, use dark theme for night an
 ## Image Search Options
 Image Search Options provides a set of highly customizable reverse image search context menu options. []()
 
-## 
+## DuckDuckGo Privacy Essentials
+Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. [https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+
