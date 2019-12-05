@@ -58,4 +58,6 @@ Fight back against advertising surveillance [https://addons.mozilla.org/en-US/fi
 ## No YouTube comments
 Hides annoying YouTube comments. [https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/?src=search](https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/?src=search)
 
-## 
+## Facebook Container
+Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. [https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
+
