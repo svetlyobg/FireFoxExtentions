@@ -43,3 +43,5 @@ Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-U
 ## To Google Translate
 Right-click on a section of text and click on Translate icon next to it to translate or listen it to your language.[https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/?src=search](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/?src=search)
 
+## Country Flags & IP Whois
+Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon [https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/?src=search](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/?src=search)
