@@ -51,3 +51,8 @@ Click on any image on the web to search for it on TinEye. [https://addons.mozill
 
 ## No Coin
 Stop coin miners on the web! [https://addons.mozilla.org/en-US/firefox/addon/no-coin/?src=search](https://addons.mozilla.org/en-US/firefox/addon/no-coin/?src=search)
+
+## AdNauseam
+Fight back against advertising surveillance [https://addons.mozilla.org/en-US/firefox/addon/adnauseam/?src=search](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/?src=search)
+
+## 
