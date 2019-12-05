@@ -85,4 +85,7 @@ Privacy, simplified. Our add-on provides the privacy essentials you need to seam
 ## Wikiwand: Wikipedia Modernized
 Good old Wikipedia gets a great new look [https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/?src=search](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/?src=search)
 
+## Snap Links Plus
+Select a number of links with a rectangle and open them in new tabs. You can also lasso checkboxes to quickly check or uncheck them. Works with radio buttons as well. [https://addons.mozilla.org/en-US/firefox/addon/snaplinksplus/](https://addons.mozilla.org/en-US/firefox/addon/snaplinksplus/)
+
 ## 
