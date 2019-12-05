@@ -70,4 +70,7 @@ Adds a bar to show the status of your downloads [https://addons.mozilla.org/en-U
 ## View Image
 Re-implements the google image, "View Image" and "Search by Image" buttons. [https://addons.mozilla.org/en-US/firefox/addon/view-image/?src=search](https://addons.mozilla.org/en-US/firefox/addon/view-image/?src=search)
 
+## Copy PlainText
+Copy Plain Text without any formatting [https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/?src=search](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/?src=search)
+
 ## 
