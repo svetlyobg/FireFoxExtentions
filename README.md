@@ -39,3 +39,7 @@ All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated too
 
 ## Ghostery – Privacy Ad Blocker
 Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search)
+
+## To Google Translate
+Right-click on a section of text and click on Translate icon next to it to translate or listen it to your language.[https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/?src=search](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/?src=search)
+
