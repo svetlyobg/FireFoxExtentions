@@ -61,3 +61,7 @@ Hides annoying YouTube comments. [https://addons.mozilla.org/en-US/firefox/addon
 ## Facebook Container
 Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. [https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
 
+## HTTPS Everywhere
+Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix. [https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search)
+
+## 
