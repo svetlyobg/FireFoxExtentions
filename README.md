@@ -36,3 +36,6 @@ The entire page will be fading to dark, so you can watch the video as if you wer
 
 ## MX Tool Box
 All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool [https://addons.mozilla.org/bg/firefox/addon/mx-tool-box/?src=search](https://addons.mozilla.org/bg/firefox/addon/mx-tool-box/?src=search)
+
+## Ghostery – Privacy Ad Blocker
+Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search)
