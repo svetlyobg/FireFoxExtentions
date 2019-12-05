@@ -73,4 +73,7 @@ Re-implements the google image, "View Image" and "Search by Image" buttons. [htt
 ## Copy PlainText
 Copy Plain Text without any formatting [https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/?src=search](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/?src=search)
 
+## Dark Reader
+Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing. [https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search)
+
 ## 
