@@ -76,4 +76,7 @@ Copy Plain Text without any formatting [https://addons.mozilla.org/en-US/firefox
 ## Dark Reader
 Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing. [https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search)
 
+## Image Search Options
+Image Search Options provides a set of highly customizable reverse image search context menu options. []()
+
 ## 
