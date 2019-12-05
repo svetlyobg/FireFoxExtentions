@@ -32,7 +32,7 @@ Checks the current tab's URL against Qualys SSL Labs' SSL Server Test. [https://
 Detects the theme and plugins used in WordPress and display information about them. [https://addons.mozilla.org/bg/firefox/addon/wp-theme-and-plugins-detector/?src=search](https://addons.mozilla.org/bg/firefox/addon/wp-theme-and-plugins-detector/?src=search)
 
 ## Turn Off the Lights
-The entire page will be fading to dark, so you can watch the video as if you were in the cinema.  [https://addons.mozilla.org/bg/firefox/addon/turn-off-the-lights/?src=featured]9https://addons.mozilla.org/bg/firefox/addon/turn-off-the-lights/?src=featured0
+The entire page will be fading to dark, so you can watch the video as if you were in the cinema.  [https://addons.mozilla.org/bg/firefox/addon/turn-off-the-lights/?src=featured] (9https://addons.mozilla.org/bg/firefox/addon/turn-off-the-lights/?src=featured0)
 
 ## MX Tool Box
 All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool [https://addons.mozilla.org/bg/firefox/addon/mx-tool-box/?src=search](https://addons.mozilla.org/bg/firefox/addon/mx-tool-box/?src=search)
