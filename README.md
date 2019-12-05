@@ -45,3 +45,6 @@ Right-click on a section of text and click on Translate icon next to it to trans
 
 ## Country Flags & IP Whois
 Displays country flag of website's server location, Whois and Geo info on a browser addressbar icon [https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/?src=search](https://addons.mozilla.org/en-US/firefox/addon/country-flags-ip-whois/?src=search)
+
+## TinEye Reverse Image Search
+Click on any image on the web to search for it on TinEye. [https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/?src=search](https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/?src=search)
