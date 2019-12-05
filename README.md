@@ -88,4 +88,7 @@ Good old Wikipedia gets a great new look [https://addons.mozilla.org/en-US/firef
 ## Snap Links Plus
 Select a number of links with a rectangle and open them in new tabs. You can also lasso checkboxes to quickly check or uncheck them. Works with radio buttons as well. [https://addons.mozilla.org/en-US/firefox/addon/snaplinksplus/](https://addons.mozilla.org/en-US/firefox/addon/snaplinksplus/)
 
+## Undo Close Tab
+Allows you to restore the last closed tab with just one button click and gives you access to the list of recently closed tabs in the button context menu. [https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/?src=search](https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/?src=search)
+
 ## 
