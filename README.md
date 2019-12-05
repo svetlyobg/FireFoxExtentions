@@ -64,4 +64,7 @@ Prevent Facebook from tracking you around the web. The Facebook Container extens
 ## HTTPS Everywhere
 Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix. [https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search)
 
+## WX Download Status Bar
+Adds a bar to show the status of your downloads [https://addons.mozilla.org/en-US/firefox/addon/wx-download-status-bar/?src=search](https://addons.mozilla.org/en-US/firefox/addon/wx-download-status-bar/?src=search)
+
 ## 
