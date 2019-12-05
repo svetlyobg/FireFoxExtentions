@@ -67,4 +67,7 @@ Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communi
 ## WX Download Status Bar
 Adds a bar to show the status of your downloads [https://addons.mozilla.org/en-US/firefox/addon/wx-download-status-bar/?src=search](https://addons.mozilla.org/en-US/firefox/addon/wx-download-status-bar/?src=search)
 
+## View Image
+Re-implements the google image, "View Image" and "Search by Image" buttons. [https://addons.mozilla.org/en-US/firefox/addon/view-image/?src=search](https://addons.mozilla.org/en-US/firefox/addon/view-image/?src=search)
+
 ## 
