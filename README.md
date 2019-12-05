@@ -48,3 +48,6 @@ Displays country flag of website's server location, Whois and Geo info on a brow
 
 ## TinEye Reverse Image Search
 Click on any image on the web to search for it on TinEye. [https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/?src=search](https://addons.mozilla.org/en-US/firefox/addon/tineye-reverse-image-search/?src=search)
+
+## No Coin
+Stop coin miners on the web! [https://addons.mozilla.org/en-US/firefox/addon/no-coin/?src=search](https://addons.mozilla.org/en-US/firefox/addon/no-coin/?src=search)
