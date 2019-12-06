@@ -93,3 +93,6 @@ Allows you to restore the last closed tab with just one button click and gives y
 
 ## Save PDF
 Save webpage as a PDF file. Simply click on the addon icon and see the magic happens. The best free PDF saving tool on the market. [https://addons.mozilla.org/en-US/firefox/addon/save-pdf-tool/?src=search](https://addons.mozilla.org/en-US/firefox/addon/save-pdf-tool/?src=search)
+
+## Firefox Multi-Account Containers
+Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. [https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
