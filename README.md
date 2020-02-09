@@ -100,3 +100,7 @@ Save webpage as a PDF file. Simply click on the addon icon and see the magic hap
 
 ## Firefox Multi-Account Containers
 Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. [https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+
+## Exif Viewer
+Displays the Exif and IPTC data in local and remote JPEG images.
+[https://addons.mozilla.org/bg/firefox/addon/exif-viewer/](https://addons.mozilla.org/bg/firefox/addon/exif-viewer/)
