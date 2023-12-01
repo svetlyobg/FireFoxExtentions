@@ -124,6 +124,10 @@ Automatically learns to block invisible trackers.
 Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.
 [https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
+## uMatrix
+Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
+[https://addons.mozilla.org/en-US/firefox/addon/umatrix/](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
+
 ## Bitwarden - Free Password Manager
 A secure and free password manager for all of your devices.
 [https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
