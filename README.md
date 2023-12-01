@@ -133,3 +133,8 @@ Using this simple extension you can create collections that seamlessly fit into 
 Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos.
 [https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
 
+## DeArrow - Better Titles and Thumbnails on YouTube
+Crowdsourcing titles and thumbnails to be descriptive and not sensational
+[https://addons.mozilla.org/en-US/firefox/addon/dearrow/](https://addons.mozilla.org/en-US/firefox/addon/dearrow/)
+
+
