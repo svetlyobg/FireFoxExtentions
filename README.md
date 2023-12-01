@@ -120,6 +120,10 @@ Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-U
 Automatically learns to block invisible trackers.
 [https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 
+## uBlock Origin
+Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.
+[https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
 ## Bitwarden - Free Password Manager
 A secure and free password manager for all of your devices.
 [https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
