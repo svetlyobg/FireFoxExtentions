@@ -95,6 +95,10 @@ Do you have a ton of open tabs? Organize them in a tidy sidebar.
 Add price history charts and price watch features to Firefox when viewing product pages on Amazon. Use it to make informed purchasing decisions and to receive price drop alerts via email, Twitter, or RSS feed.
 [https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/)
 
+## Imagus
+With a simple mouse-over you can enlarge images and display images/videos from links.
+[https://addons.mozilla.org/en-US/firefox/addon/imagus/](https://addons.mozilla.org/en-US/firefox/addon/imagus/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
