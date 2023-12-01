@@ -104,3 +104,7 @@ Firefox Multi-Account Containers lets you keep parts of your online life separat
 ## Exif Viewer
 Displays the Exif and IPTC data in local and remote JPEG images.
 [https://addons.mozilla.org/bg/firefox/addon/exif-viewer/](https://addons.mozilla.org/bg/firefox/addon/exif-viewer/)
+
+## Tree Style Tab
+Do you have a ton of open tabs? Organize them in a tidy sidebar.
+[https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
