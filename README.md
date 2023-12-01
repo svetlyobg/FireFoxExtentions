@@ -141,3 +141,7 @@ Crowdsourcing titles and thumbnails to be descriptive and not sensational
 Tampermonkey is the world's most popular userscript manager.
 [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
+## Return YouTube Dislike
+Returns ability to see dislike statistics on youtube
+[https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
+
