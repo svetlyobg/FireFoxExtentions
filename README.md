@@ -145,3 +145,7 @@ Tampermonkey is the world's most popular userscript manager.
 Returns ability to see dislike statistics on youtube
 [https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
 
+## BlockTube
+YouTube™ Content Blocker. Block channels and videos from YouTube. Fast and easy.
+[https://addons.mozilla.org/en-US/firefox/addon/blocktube/](https://addons.mozilla.org/en-US/firefox/addon/blocktube/)
+
