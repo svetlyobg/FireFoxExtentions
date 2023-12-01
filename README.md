@@ -124,3 +124,8 @@ Hide YouTube related videos, comments, video suggestions wall, homepage recommen
 Enhance your YouTube experience with this powerful browser extension. Features include customizable volume control, automatic quality settings, playback speed adjustments, volume boost, and more. Build from scratch with easy steps.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-enhancer-vc/](https://addons.mozilla.org/en-US/firefox/addon/youtube-enhancer-vc/)
 
+## PocketTube: Youtube Subscription Manager
+The best way to group your subscriptions
+Using this simple extension you can create collections that seamlessly fit into YouTube's layout.
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/](https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/)
+
