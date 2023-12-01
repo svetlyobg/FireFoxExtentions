@@ -59,9 +59,6 @@ Stop coin miners on the web! [https://addons.mozilla.org/en-US/firefox/addon/no-
 ## AdNauseam
 Fight back against advertising surveillance [https://addons.mozilla.org/en-US/firefox/addon/adnauseam/?src=search](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/?src=search)
 
-## No YouTube comments
-Hides annoying YouTube comments. [https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/?src=search](https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/?src=search)
-
 ## Facebook Container
 Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. [https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
 
@@ -108,3 +105,13 @@ Displays the Exif and IPTC data in local and remote JPEG images.
 ## Tree Style Tab
 Do you have a ton of open tabs? Organize them in a tidy sidebar.
 [https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
+
+# YouTube
+
+## No YouTube comments
+Hides annoying YouTube comments. [https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/?src=search](https://addons.mozilla.org/en-US/firefox/addon/no-youtube-comments/?src=search)
+
+## Youtube-shorts block
+Play the Youtube shorts video as if it were a normal video.
+and hide "shorts"tab and videos (optional).
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-shorts-block/](https://addons.mozilla.org/en-US/firefox/addon/youtube-shorts-block/)
