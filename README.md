@@ -137,4 +137,7 @@ Easily skip YouTube video sponsors. When you visit a YouTube video, the extensio
 Crowdsourcing titles and thumbnails to be descriptive and not sensational
 [https://addons.mozilla.org/en-US/firefox/addon/dearrow/](https://addons.mozilla.org/en-US/firefox/addon/dearrow/)
 
+## Tampermonkey
+Tampermonkey is the world's most popular userscript manager.
+[https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
