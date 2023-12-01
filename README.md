@@ -99,6 +99,10 @@ Add price history charts and price watch features to Firefox when viewing produc
 With a simple mouse-over you can enlarge images and display images/videos from links.
 [https://addons.mozilla.org/en-US/firefox/addon/imagus/](https://addons.mozilla.org/en-US/firefox/addon/imagus/)
 
+## Gesturefy
+Navigate, operate, and browse faster with mouse gestures! A customizable mouse gesture add-on with a variety of different commands.
+[https://addons.mozilla.org/en-US/firefox/addon/gesturefy/](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
