@@ -116,6 +116,12 @@ Displays the Exif and IPTC data in local and remote JPEG images.
 ## Ghostery – Privacy Ad Blocker
 Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search)
 
+## Privacy Badger
+Automatically learns to block invisible trackers.
+[https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+
+
+
 # YouTube
 
 ## No YouTube comments
