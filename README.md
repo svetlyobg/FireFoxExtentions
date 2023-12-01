@@ -115,3 +115,7 @@ Hides annoying YouTube comments. [https://addons.mozilla.org/en-US/firefox/addon
 Play the Youtube shorts video as if it were a normal video.
 and hide "shorts"tab and videos (optional).
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-shorts-block/](https://addons.mozilla.org/en-US/firefox/addon/youtube-shorts-block/)
+
+## Unhook: Remove YouTube Recommended Videos Comments
+Hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions.
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/)
