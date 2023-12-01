@@ -129,3 +129,7 @@ The best way to group your subscriptions
 Using this simple extension you can create collections that seamlessly fit into YouTube's layout.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/](https://addons.mozilla.org/en-US/firefox/addon/youtube-subscription-groups/)
 
+## SponsorBlock
+Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos.
+[https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+
