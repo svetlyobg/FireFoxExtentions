@@ -41,9 +41,6 @@ The entire page will be fading to dark, so you can watch the video as if you wer
 ## MX Tool Box
 All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool [https://addons.mozilla.org/bg/firefox/addon/mx-tool-box/?src=search](https://addons.mozilla.org/bg/firefox/addon/mx-tool-box/?src=search)
 
-## Ghostery – Privacy Ad Blocker
-Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search)
-
 ## To Google Translate
 Right-click on a section of text and click on Translate icon next to it to translate or listen it to your language.[https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/?src=search](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/?src=search)
 
@@ -63,12 +60,6 @@ Stop coin miners on the web! [https://addons.mozilla.org/en-US/firefox/addon/no-
 ## AdNauseam
 Fight back against advertising surveillance [https://addons.mozilla.org/en-US/firefox/addon/adnauseam/?src=search](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/?src=search)
 
-## Facebook Container
-Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. [https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
-
-## HTTPS Everywhere
-Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix. [https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search)
-
 ## WX Download Status Bar
 Adds a bar to show the status of your downloads [https://addons.mozilla.org/en-US/firefox/addon/wx-download-status-bar/?src=search](https://addons.mozilla.org/en-US/firefox/addon/wx-download-status-bar/?src=search)
 
@@ -84,9 +75,6 @@ Dark mode for every website. Take care of your eyes, use dark theme for night an
 ## Image Search Options
 Image Search Options provides a set of highly customizable reverse image search context menu options. []()
 
-## DuckDuckGo Privacy Essentials
-Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. [https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
-
 ## Wikiwand: Wikipedia Modernized
 Good old Wikipedia gets a great new look [https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/?src=search](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/?src=search)
 
@@ -99,13 +87,6 @@ Allows you to restore the last closed tab with just one button click and gives y
 ## Save PDF
 Save webpage as a PDF file. Simply click on the addon icon and see the magic happens. The best free PDF saving tool on the market. [https://addons.mozilla.org/en-US/firefox/addon/save-pdf-tool/?src=search](https://addons.mozilla.org/en-US/firefox/addon/save-pdf-tool/?src=search)
 
-## Firefox Multi-Account Containers
-Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. [https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-
-## Exif Viewer
-Displays the Exif and IPTC data in local and remote JPEG images.
-[https://addons.mozilla.org/bg/firefox/addon/exif-viewer/](https://addons.mozilla.org/bg/firefox/addon/exif-viewer/)
-
 ## Tree Style Tab
 Do you have a ton of open tabs? Organize them in a tidy sidebar.
 [https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
@@ -114,7 +95,26 @@ Do you have a ton of open tabs? Organize them in a tidy sidebar.
 Add price history charts and price watch features to Firefox when viewing product pages on Amazon. Use it to make informed purchasing decisions and to receive price drop alerts via email, Twitter, or RSS feed.
 [https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/)
 
+# Privacy
 
+## DuckDuckGo Privacy Essentials
+Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more. [https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+
+## Firefox Multi-Account Containers
+Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. [https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
+
+## Facebook Container
+Prevent Facebook from tracking you around the web. The Facebook Container extension for Firefox helps you take control and isolate your web activity from Facebook. [https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?src=search)
+
+## HTTPS Everywhere
+Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix. [https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/?src=search)
+
+## Exif Viewer
+Displays the Exif and IPTC data in local and remote JPEG images.
+[https://addons.mozilla.org/bg/firefox/addon/exif-viewer/](https://addons.mozilla.org/bg/firefox/addon/exif-viewer/)
+
+## Ghostery – Privacy Ad Blocker
+Block ads, stop trackers and speed up websites. [https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search](https://addons.mozilla.org/en-US/firefox/addon/ghostery/?src=search)
 
 # YouTube
 
