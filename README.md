@@ -110,6 +110,12 @@ Displays the Exif and IPTC data in local and remote JPEG images.
 Do you have a ton of open tabs? Organize them in a tidy sidebar.
 [https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)
 
+## The Camelizer - Price Tracker
+Add price history charts and price watch features to Firefox when viewing product pages on Amazon. Use it to make informed purchasing decisions and to receive price drop alerts via email, Twitter, or RSS feed.
+[https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/)
+
+
+
 # YouTube
 
 ## No YouTube comments
