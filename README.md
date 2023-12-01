@@ -119,3 +119,8 @@ and hide "shorts"tab and videos (optional).
 ## Unhook: Remove YouTube Recommended Videos Comments
 Hide YouTube related videos, comments, video suggestions wall, homepage recommendations, trending tab, and other distractions.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/)
+
+## YouTube Enhancer
+Enhance your YouTube experience with this powerful browser extension. Features include customizable volume control, automatic quality settings, playback speed adjustments, volume boost, and more. Build from scratch with easy steps.
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-enhancer-vc/](https://addons.mozilla.org/en-US/firefox/addon/youtube-enhancer-vc/)
+
