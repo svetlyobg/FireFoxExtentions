@@ -207,3 +207,6 @@ Returns ability to see dislike statistics on youtube
 YouTube™ Content Blocker. Block channels and videos from YouTube. Fast and easy.
 [https://addons.mozilla.org/en-US/firefox/addon/blocktube/](https://addons.mozilla.org/en-US/firefox/addon/blocktube/)
 
+## Improve YouTube!
+Youtube Extension. Powerful but lightweight. Enrich your Youtube & content selection. Make YouTube tidy&smart! Layout Filters Shortcuts Adblocker Playlist.
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/)
