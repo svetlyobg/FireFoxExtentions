@@ -303,3 +303,8 @@ A simple extension for superfast and easy YouTube downloads in FLV, 3GP, MP3, MP
 Returns ability to see dislike statistics on youtube
 [https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
 
+## YouTube Summary with ChatGPT
+Show summary of ChatGPT in Youtube.com .
+Glarity - YouTube Video Summary with ChatGPT (AD-Free)
+This is an open source extension that shows a summary from ChatGPT next to Youtube.
+[https://addons.mozilla.org/en-US/firefox/addon/glarity-youtube-summary/](https://addons.mozilla.org/en-US/firefox/addon/glarity-youtube-summary/)
