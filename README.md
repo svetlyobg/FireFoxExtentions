@@ -148,6 +148,10 @@ Point & click to forbid/allow any class of requests made by your browser. Use it
 A secure and free password manager for all of your devices.
 [https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 
+## KeePassXC-Browser
+Official browser plugin for the KeePassXC password manager
+[https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)
+
 # YouTube
 
 ## No YouTube comments
