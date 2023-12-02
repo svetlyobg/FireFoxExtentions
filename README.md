@@ -189,6 +189,10 @@ Removes tracking elements from URLs
 Redirects YouTube, Twitter, TikTok... requests to alternative privacy friendly frontends.
 [https://addons.mozilla.org/en-US/firefox/addon/libredirect/](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)
 
+## Clear Browsing Data
+Delete browsing data directly from the browser toolbar. Clear cookies, history and cache with a single click.
+[https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/]9https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/
+
 # YouTube
 
 ## No YouTube comments
