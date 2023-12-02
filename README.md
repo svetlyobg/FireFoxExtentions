@@ -274,3 +274,8 @@ Take screenshots from YouTube Videos & YouTube Shorts. The addon adds screenshot
 ## Easy Youtube Video Downloader Express
 A simple extension for superfast and easy YouTube downloads in FLV, 3GP, MP3, MP4, 720p, and 1080p formats.
 [https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)
+
+## Return YouTube Dislike
+Returns ability to see dislike statistics on youtube
+[https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
+
