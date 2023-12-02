@@ -132,6 +132,10 @@ New Tab Override allows you to set the page that shows whenever you open a new t
 Copy Plain Text without any formatting
 [https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/)
 
+## Auto Tab Discard
+Increase browser speed and reduce memory load and when you have numerous open tabs.
+[https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
