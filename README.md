@@ -119,6 +119,11 @@ Read out loud the current web-page article with one click. Supports 40+ language
 Save an entire web page—including images and styling—as a single HTML file.
 [https://addons.mozilla.org/en-US/firefox/addon/single-file/](https://addons.mozilla.org/en-US/firefox/addon/single-file/)
 
+## ScrollAnywhere
+Scroll page without touching scroll-bar!
+Press Middle (Right / Left) mouse button anywhere on the page to scroll just like with scrollbar.
+[https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
@@ -231,11 +236,6 @@ YouTube Video Download - YouTube HD Download is an amazing YouTube Video Downloa
 ## YouTube Screenshot Button
 Take screenshots from YouTube Videos & YouTube Shorts. The addon adds screenshot button & also enables Shift+A shortcut.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-screenshot-button/](https://addons.mozilla.org/en-US/firefox/addon/youtube-screenshot-button/)
-
-## ScrollAnywhere
-Scroll page without touching scroll-bar!
-Press Middle (Right / Left) mouse button anywhere on the page to scroll just like with scrollbar.
-[https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/)
 
 ## Easy Youtube Video Downloader Express
 A simple extension for superfast and easy YouTube downloads in FLV, 3GP, MP3, MP4, 720p, and 1080p formats.
