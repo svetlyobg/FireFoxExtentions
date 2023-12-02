@@ -150,6 +150,10 @@ Force Enable Right Click & Copy
 This add-on stops websites from blocking copy and paste for password fields and other input fields.
 [https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/](https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/)
 
+## Unpaywall
+Get free text of research papers as you browse, using Unpaywall's index of ten million legal, open-access articles.
+[https://addons.mozilla.org/en-US/firefox/addon/unpaywall/](https://addons.mozilla.org/en-US/firefox/addon/unpaywall/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
