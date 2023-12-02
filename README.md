@@ -162,7 +162,9 @@ Download SVGs from websites as SVGs, PNGs or JPEGs
 Quickly resize the window to one of your favorite sizes
 [https://addons.mozilla.org/en-US/firefox/addon/windowsizer/]I(https://addons.mozilla.org/en-US/firefox/addon/windowsizer/)
 
-
+## Web Scraper
+Web Scraper is a website data extraction tool. You can create a sitemaps that map how the site should be navigated and from which elements data should be extracted. Then you can run the scraper in your browser and download data in CSV.
+[https://addons.mozilla.org/en-US/firefox/addon/web-scraper/](https://addons.mozilla.org/en-US/firefox/addon/web-scraper/)
 
 # Privacy
 
