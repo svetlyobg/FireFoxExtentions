@@ -1,4 +1,6 @@
-# FireFoxExtentions
+FireFoxExtentions
+
+# General
 
 ## Check all plugins for updates
 
