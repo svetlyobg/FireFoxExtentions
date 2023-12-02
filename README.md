@@ -107,6 +107,10 @@ With a simple mouse-over you can enlarge images and display images/videos from l
 Navigate, operate, and browse faster with mouse gestures! A customizable mouse gesture add-on with a variety of different commands.
 [https://addons.mozilla.org/en-US/firefox/addon/gesturefy/](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/)
 
+## DownThemAll!
+The Mass Downloader for your browser
+[https://addons.mozilla.org/en-US/firefox/addon/downthemall/](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
