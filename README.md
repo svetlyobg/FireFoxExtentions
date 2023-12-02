@@ -20,10 +20,6 @@ You can capture a screen shot by selecting an area or capture the whole/visible 
 ## Easy Screenshot (whole page)
 You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file. [https://addons.mozilla.org/bg/firefox/addon/page-screenshot-tool/](https://addons.mozilla.org/bg/firefox/addon/page-screenshot-tool/)
 
-## ClearURLs
-Removes tracking elements from URLs
-[https://addons.mozilla.org/en-US/firefox/addon/clearurls/](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
-
 ## Flagfox
 Shows location of IP/host down to city level [https://addons.mozilla.org/bg/firefox/addon/flagfox/?src=search](https://addons.mozilla.org/bg/firefox/addon/flagfox/?src=search)
 
@@ -148,6 +144,10 @@ Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.
 Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.
 [https://addons.mozilla.org/en-US/firefox/addon/umatrix/](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
 
+## AdGuard AdBlocker
+Unmatched adblock extension against advertising and pop-ups. Blocks ads on Facebook, Youtube and all other websites.
+[https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/](https://addons.mozilla.org/en-US/firefox/addon/adguard-adblocker/)
+
 ## Bitwarden - Free Password Manager
 A secure and free password manager for all of your devices.
 [https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
@@ -155,6 +155,10 @@ A secure and free password manager for all of your devices.
 ## KeePassXC-Browser
 Official browser plugin for the KeePassXC password manager
 [https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/)
+
+## ClearURLs
+Removes tracking elements from URLs
+[https://addons.mozilla.org/en-US/firefox/addon/clearurls/](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
 # YouTube
 
