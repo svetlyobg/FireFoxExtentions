@@ -124,6 +124,12 @@ Scroll page without touching scroll-bar!
 Press Middle (Right / Left) mouse button anywhere on the page to scroll just like with scrollbar.
 [https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/)
 
+## New Tab Override
+New Tab Override allows you to set the page that shows whenever you open a new tab.
+[https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/)
+
+
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
