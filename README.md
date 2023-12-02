@@ -218,3 +218,7 @@ YouTube™ Content Blocker. Block channels and videos from YouTube. Fast and eas
 ## Improve YouTube!
 Youtube Extension. Powerful but lightweight. Enrich your Youtube & content selection. Make YouTube tidy&smart! Layout Filters Shortcuts Adblocker Playlist.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/](https://addons.mozilla.org/en-US/firefox/addon/youtube-addon/)
+
+## YouTube High Definition
+YouTube High Definition is a powerful tool that automatically plays all YouTube videos in HD, changes video player size, offers auto-stop and mute, and much more.
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-high-definition/](https://addons.mozilla.org/en-US/firefox/addon/youtube-high-definition/)
