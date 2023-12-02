@@ -20,6 +20,10 @@ You can capture a screen shot by selecting an area or capture the whole/visible 
 ## Easy Screenshot (whole page)
 You can capture a screen shot by selecting an area or capture the whole/visible webpage. Then edit and save it as an image file. [https://addons.mozilla.org/bg/firefox/addon/page-screenshot-tool/](https://addons.mozilla.org/bg/firefox/addon/page-screenshot-tool/)
 
+## ClearURLs
+Removes tracking elements from URLs
+[https://addons.mozilla.org/en-US/firefox/addon/clearurls/](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+
 ## Flagfox
 Shows location of IP/host down to city level [https://addons.mozilla.org/bg/firefox/addon/flagfox/?src=search](https://addons.mozilla.org/bg/firefox/addon/flagfox/?src=search)
 
