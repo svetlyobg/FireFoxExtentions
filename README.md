@@ -154,6 +154,10 @@ This add-on stops websites from blocking copy and paste for password fields and 
 Get free text of research papers as you browse, using Unpaywall's index of ten million legal, open-access articles.
 [https://addons.mozilla.org/en-US/firefox/addon/unpaywall/](https://addons.mozilla.org/en-US/firefox/addon/unpaywall/)
 
+## SVG Export
+Download SVGs from websites as SVGs, PNGs or JPEGs
+[https://addons.mozilla.org/en-US/firefox/addon/svg-export/](https://addons.mozilla.org/en-US/firefox/addon/svg-export/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
