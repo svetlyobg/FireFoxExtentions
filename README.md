@@ -115,6 +115,10 @@ The Mass Downloader for your browser
 Read out loud the current web-page article with one click. Supports 40+ languages.
 [https://addons.mozilla.org/en-US/firefox/addon/read-aloud/](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)
 
+## SingleFile
+Save an entire web page—including images and styling—as a single HTML file.
+[https://addons.mozilla.org/en-US/firefox/addon/single-file/](https://addons.mozilla.org/en-US/firefox/addon/single-file/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
