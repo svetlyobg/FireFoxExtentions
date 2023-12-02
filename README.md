@@ -231,3 +231,8 @@ YouTube Video Download - YouTube HD Download is an amazing YouTube Video Downloa
 ## YouTube Screenshot Button
 Take screenshots from YouTube Videos & YouTube Shorts. The addon adds screenshot button & also enables Shift+A shortcut.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-screenshot-button/](https://addons.mozilla.org/en-US/firefox/addon/youtube-screenshot-button/)
+
+## ScrollAnywhere
+Scroll page without touching scroll-bar!
+Press Middle (Right / Left) mouse button anywhere on the page to scroll just like with scrollbar.
+[https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/)
