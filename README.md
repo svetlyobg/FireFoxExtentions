@@ -222,3 +222,8 @@ Youtube Extension. Powerful but lightweight. Enrich your Youtube & content selec
 ## YouTube High Definition
 YouTube High Definition is a powerful tool that automatically plays all YouTube videos in HD, changes video player size, offers auto-stop and mute, and much more.
 [https://addons.mozilla.org/en-US/firefox/addon/youtube-high-definition/](https://addons.mozilla.org/en-US/firefox/addon/youtube-high-definition/)
+
+## YouTube Video Download
+Download YouTube Videos in HD + SOUND.
+YouTube Video Download - YouTube HD Download is an amazing YouTube Video Downloader tool for all the download video YouTube fans.
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search](https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
