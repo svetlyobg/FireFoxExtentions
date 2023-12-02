@@ -308,3 +308,7 @@ Show summary of ChatGPT in Youtube.com .
 Glarity - YouTube Video Summary with ChatGPT (AD-Free)
 This is an open source extension that shows a summary from ChatGPT next to Youtube.
 [https://addons.mozilla.org/en-US/firefox/addon/glarity-youtube-summary/](https://addons.mozilla.org/en-US/firefox/addon/glarity-youtube-summary/)
+
+## Download Youtube Subtitles and Captions
+Youtube subtitle downloader button below YouTube videos. This button takes you to the list of subtitles of the corresponding video when clicked!
+[https://addons.mozilla.org/en-US/firefox/addon/download-youtube-subtitles/](https://addons.mozilla.org/en-US/firefox/addon/download-youtube-subtitles/)
