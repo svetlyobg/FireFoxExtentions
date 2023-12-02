@@ -160,6 +160,10 @@ Official browser plugin for the KeePassXC password manager
 Removes tracking elements from URLs
 [https://addons.mozilla.org/en-US/firefox/addon/clearurls/](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
+## LibRedirect
+Redirects YouTube, Twitter, TikTok... requests to alternative privacy friendly frontends.
+[https://addons.mozilla.org/en-US/firefox/addon/libredirect/](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)
+
 # YouTube
 
 ## No YouTube comments
