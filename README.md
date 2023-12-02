@@ -146,7 +146,9 @@ Increase browser speed and reduce memory load and when you have numerous open ta
 Force Enable Right Click & Copy
 [https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
 
-
+## Don't Fuck With Paste
+This add-on stops websites from blocking copy and paste for password fields and other input fields.
+[https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/](https://addons.mozilla.org/en-US/firefox/addon/don-t-fuck-with-paste/)
 
 # Privacy
 
