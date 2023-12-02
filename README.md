@@ -111,6 +111,10 @@ Navigate, operate, and browse faster with mouse gestures! A customizable mouse g
 The Mass Downloader for your browser
 [https://addons.mozilla.org/en-US/firefox/addon/downthemall/](https://addons.mozilla.org/en-US/firefox/addon/downthemall/)
 
+## Read Aloud
+Read out loud the current web-page article with one click. Supports 40+ languages.
+[https://addons.mozilla.org/en-US/firefox/addon/read-aloud/](https://addons.mozilla.org/en-US/firefox/addon/read-aloud/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
