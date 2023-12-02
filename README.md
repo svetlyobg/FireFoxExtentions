@@ -128,7 +128,9 @@ Press Middle (Right / Left) mouse button anywhere on the page to scroll just lik
 New Tab Override allows you to set the page that shows whenever you open a new tab.
 [https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/)
 
-
+## Copy PlainText
+Copy Plain Text without any formatting
+[https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/)
 
 # Privacy
 
