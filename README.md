@@ -142,6 +142,12 @@ Increase browser speed and reduce memory load and when you have numerous open ta
 
 [https://addons.mozilla.org/en-US/firefox/addon/bionic-reader/](https://addons.mozilla.org/en-US/firefox/addon/bionic-reader/)
 
+## Absolute Enable Right Click & Copy
+Force Enable Right Click & Copy
+[https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
+
+
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
