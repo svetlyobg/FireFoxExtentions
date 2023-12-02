@@ -203,6 +203,10 @@ Delete browsing data directly from the browser toolbar. Clear cookies, history a
 Defending against Font fingerprinting by reporting a fake value.
 [https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/](https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/)
 
+## I don't care about cookies
+Get rid of cookie warnings from almost all websites!
+[https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
+
 # YouTube
 
 ## No YouTube comments
