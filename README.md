@@ -236,3 +236,7 @@ Take screenshots from YouTube Videos & YouTube Shorts. The addon adds screenshot
 Scroll page without touching scroll-bar!
 Press Middle (Right / Left) mouse button anywhere on the page to scroll just like with scrollbar.
 [https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/)
+
+## Easy Youtube Video Downloader Express
+A simple extension for superfast and easy YouTube downloads in FLV, 3GP, MP3, MP4, 720p, and 1080p formats.
+[https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/](https://addons.mozilla.org/en-US/firefox/addon/easy-youtube-video-download/)
