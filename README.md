@@ -226,7 +226,7 @@ YouTube High Definition is a powerful tool that automatically plays all YouTube 
 ## YouTube Video Download
 Download YouTube Videos in HD + SOUND.
 YouTube Video Download - YouTube HD Download is an amazing YouTube Video Downloader tool for all the download video YouTube fans.
-[https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search](https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+[https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/](https://addons.mozilla.org/en-US/firefox/addon/youtube-download-hd-download/)
 
 ## YouTube Screenshot Button
 Take screenshots from YouTube Videos & YouTube Shorts. The addon adds screenshot button & also enables Shift+A shortcut.
