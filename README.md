@@ -158,6 +158,12 @@ Get free text of research papers as you browse, using Unpaywall's index of ten m
 Download SVGs from websites as SVGs, PNGs or JPEGs
 [https://addons.mozilla.org/en-US/firefox/addon/svg-export/](https://addons.mozilla.org/en-US/firefox/addon/svg-export/)
 
+## WindowSizer
+Quickly resize the window to one of your favorite sizes
+[https://addons.mozilla.org/en-US/firefox/addon/windowsizer/]I(https://addons.mozilla.org/en-US/firefox/addon/windowsizer/)
+
+
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
