@@ -199,6 +199,10 @@ Clear browser cache with a single click or via the F9 key.
 Delete browsing data directly from the browser toolbar. Clear cookies, history and cache with a single click.
 [https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/]9https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data/
 
+## Font Fingerprint Defender
+Defending against Font fingerprinting by reporting a fake value.
+[https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/](https://addons.mozilla.org/en-US/firefox/addon/font-fingerprint-defender/)
+
 # YouTube
 
 ## No YouTube comments
