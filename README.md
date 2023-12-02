@@ -138,6 +138,10 @@ Copy Plain Text without any formatting
 Increase browser speed and reduce memory load and when you have numerous open tabs.
 [https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/)
 
+## Bionic Reader
+
+[https://addons.mozilla.org/en-US/firefox/addon/bionic-reader/](https://addons.mozilla.org/en-US/firefox/addon/bionic-reader/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
