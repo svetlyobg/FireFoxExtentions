@@ -166,6 +166,10 @@ Quickly resize the window to one of your favorite sizes
 Web Scraper is a website data extraction tool. You can create a sitemaps that map how the site should be navigated and from which elements data should be extracted. Then you can run the scraper in your browser and download data in CSV.
 [https://addons.mozilla.org/en-US/firefox/addon/web-scraper/](https://addons.mozilla.org/en-US/firefox/addon/web-scraper/)
 
+## FoxClocks
+FoxClocks shows times around the world - or just your local time - at the bottom of your browser. It deals with daylight saving time so you don't have to.
+[https://addons.mozilla.org/en-US/firefox/addon/foxclocks/](https://addons.mozilla.org/en-US/firefox/addon/foxclocks/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
