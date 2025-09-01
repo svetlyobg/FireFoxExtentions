@@ -170,6 +170,10 @@ Web Scraper is a website data extraction tool. You can create a sitemaps that ma
 FoxClocks shows times around the world - or just your local time - at the bottom of your browser. It deals with daylight saving time so you don't have to.
 [https://addons.mozilla.org/en-US/firefox/addon/foxclocks/](https://addons.mozilla.org/en-US/firefox/addon/foxclocks/)
 
+## The Stream Detector
+This addon provides an easy way to keep track of manifests and subtitles used by various streaming protocols. Also allows for detecting custom file types and downloading media files.
+[https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
