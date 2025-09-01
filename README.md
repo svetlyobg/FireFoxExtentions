@@ -174,6 +174,10 @@ FoxClocks shows times around the world - or just your local time - at the bottom
 This addon provides an easy way to keep track of manifests and subtitles used by various streaming protocols. Also allows for detecting custom file types and downloading media files.
 [https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/)
 
+## HLS Downloader
+HTTP Live Stream downloader
+[https://addons.mozilla.org/en-US/firefox/addon/hls-downloader/](https://addons.mozilla.org/en-US/firefox/addon/hls-downloader/)
+
 # Privacy
 
 ## DuckDuckGo Privacy Essentials
